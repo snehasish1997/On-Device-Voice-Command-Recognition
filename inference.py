@@ -29,5 +29,5 @@ def predict_command(file_path):
     # Return the predicted command
     return TARGET_CLASSES[predicted_index]
 
-# Example usage
-print(predict_command("path/to/your/test_audio.wav"))
+# as file is very big , i am not able to paste the file, we need to provide the path location here
+print(predict_command("here we have to provide the path for the file test_audio.wav"))
