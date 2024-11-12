@@ -10,5 +10,5 @@ from tensorflow.keras.layers import Conv1D, MaxPooling1D, Flatten, Dense, Dropou
 
 # Set up paths and constants
 DATASET_PATH = 'path to the dataset'  # Path where audio files are stored
-TARGET_CLASSES = ['yes', 'no', 'up', 'down', 'left', 'right', 'on', 'off', 'stop', 'go']  # Define your command classes
+TARGET_CLASSES = ['yes', 'no', 'up', 'down', 'left', 'right', 'on', 'off', 'stop', 'go']  # all command classes are defined here
 SAMPLE_RATE = 16000  # 16kHz sample rate
