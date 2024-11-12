@@ -1,0 +1,11 @@
+
+tensorflow
+tensorflow-lite
+coremltools
+numpy
+scipy
+librosa
+soundfile
+pandas
+matplotlib
+scikit-learn
